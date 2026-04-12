@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+
+# Ignore only large dataset
+Disease and symptoms dataset.csv
